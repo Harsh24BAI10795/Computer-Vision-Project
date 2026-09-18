@@ -41,6 +41,10 @@ Download the photo.jpg file into the desktop and then in the source section of t
 python cv_cli.py <task> <source> [options]
 ```
 
+Give this command to test the software   
+python cv_cli.py detect photo.jpg
+
+
 **Tasks:** `detect`, `classify`, `segment`
 
 **Source** can be:
