@@ -7,7 +7,7 @@
 | **Name** | Harsh Singh |
 | **Roll Number** | 24BAI10795 |
 | **Slot** | F11 + F12 |
-| **Date of Submission** | 18 09 2026 |
+| **Date of Submission** | 18-09-2026 |
 
 A single-file Python CLI that runs pretrained computer vision models
 (object detection, image classification, and instance segmentation)
