@@ -1,4 +1,4 @@
-# cv-cli — Computer Vision from the Command Line
+# Computer Vision from the Command Line
 
 ## Student Information
 
