@@ -42,7 +42,9 @@ python cv_cli.py <task> <source> [options]
 ```
 
 Give this command to test the software   
+```bash
 python cv_cli.py detect photo.jpg
+```
 
 
 **Tasks:** `detect`, `classify`, `segment`
