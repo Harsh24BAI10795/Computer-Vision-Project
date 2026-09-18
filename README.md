@@ -21,7 +21,9 @@ Weights are downloaded automatically the first time you use each mode
 
 ## 1. Setup
 
-Requires Python 3.9+.
+Download the requirements.txt file and save it in desktop, then give thus command in google colab or command line.
+
+Requires Python 3.9+  OR   Google Colab
 
 ```bash
 pip install -r requirements.txt
