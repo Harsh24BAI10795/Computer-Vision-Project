@@ -33,6 +33,8 @@ time — that's normal.
 
 ## 2. Usage
 
+Download the photo.jpg file into the desktop and then in the source section of the command give the path to the photo.jpg file.
+
 ```bash
 python cv_cli.py <task> <source> [options]
 ```
